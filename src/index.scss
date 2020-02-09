@@ -93,14 +93,14 @@ $fontcolor: rgb(90, 90, 90);
 }
 
 .list-item {
-  margin: 10px;
+  margin: 15px;
   color: $fontcolor;
 }
 
 // ---------Expandable lists---------
 
 .Collapsible {
-  margin: 10px;
+  margin: 15px;
   cursor: pointer;
   color: $fontcolor;
 }
@@ -109,21 +109,6 @@ $fontcolor: rgb(90, 90, 90);
   color: $maincolor;
   transition: .3s;
 }
-
-// ---------Static circles (REMOVED)---------
-
-// .circle {
-//   position: absolute;
-//   bottom: -55vh;
-//   width: 50vw;
-//   left: 50%;
-// }
-
-// .circle-small {
-//   position: absolute;
-//   bottom: -45vh;
-//   width: 30vw;
-// }
 
 // ---------Goo CSS---------
 
